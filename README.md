@@ -2,10 +2,23 @@
 
 > Plataforma web de estudos baseada em Inteligência Artificial, desenvolvida para oferecer uma experiência de preparação personalizada, adaptativa e orientada às necessidades de candidatos a concursos públicos.
 
-[![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3+-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)](https://tailwindcss.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)](https://supabase.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://vercel.com/)
+<p align="center">
+
+  <a href="https://mestriaconcursos.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20MestrIA-4285F4?style=for-the-badge" alt="Acessar MestrIA">
+  </a>
+
+</p>
+
+---
+
+## 🌐 Projeto Online
+
+O **MestrIA** está disponível online para demonstração:
+
+### 🚀 [Acessar o MestrIA](https://mestriaconcursos.com.br/)
+
+A plataforma foi desenvolvida para utilizar Inteligência Artificial como ferramenta de apoio à preparação para concursos públicos, reunindo diferentes recursos de aprendizagem em um único ambiente.
 
 ---
 
@@ -329,13 +342,6 @@ Entre os principais aprendizados estão:
 
 ---
 
-# 🌐 Projeto
-
-**MestrIA — Plataforma Inteligente para Preparação em Concursos**
-
-Desenvolvido como projeto de estudo, experimentação e aplicação prática de tecnologias modernas de desenvolvimento web e Inteligência Artificial.
-
----
 
 ## 👨‍💻 Autor
 
